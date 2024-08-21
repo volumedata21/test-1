@@ -2,3 +2,5 @@
 Testing my first repository
 
 hi
+
+earth test
